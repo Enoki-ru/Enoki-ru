@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Serjio Voronin
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm Serjio!
 =======================================================================================================================================
 
-Senior Product Analyst
+Senior Product Analyst profile
 -------
 
 I'm a product analyst who transforms complex data into profitable strategies within AdTech and Search ecosystems. By mastering tools like Python, TensorFlow, and ClickHouse/YQL, I tackle challenging projects to find non-obvious growth points and maximize ROI.
