@@ -1,4 +1,4 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm Serjio!
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm Sergio!
 =======================================================================================================================================
 And i also have Gist Github account: [Gist GitHub](https://gist.github.com/Enoki-ru)
 
