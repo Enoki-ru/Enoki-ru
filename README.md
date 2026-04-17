@@ -9,8 +9,8 @@ I'm a product analyst who transforms complex data into profitable strategies wit
 
 * 🌍  I'm based in Russia, Moscow
 * 🖥️  See my portfolio at [HideHunter](http://hh.ru/resume/23e2afc5ff0c4539e00039ed1f717168644b41)
-* ✉️  You can contact me at [zsosgha02@mail.ru](mailto:zsosgha02@mail.ru)
-* 🚀  I'm currently working on [VK Group (Adech)](http:///vk.com/monetization)
+* ✉️  You can contact me at [goodlucktv02@gmail.com](mailto:goodlucktv02@gmail.com)
+* 🚀  I'm currently working on [VK Group (AdTech)](http:///vk.com/monetization)
 * 🧠  I'm currently learning Reinforcement Learning (RL)
 * 👥  I'm looking to collaborate on anything
 * 💬  Also worked in [Yandex Search](https://ya.ru/)
